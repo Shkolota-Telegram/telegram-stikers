@@ -874,6 +874,40 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
+.cid-rNWVc3Tmaj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rNWVc3Tmaj h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-rNWVc3Tmaj .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-rNWVc3Tmaj .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rNWVc3Tmaj .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-rNWVc3Tmaj ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-rNWVc3Tmaj path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-rNWVc3Tmaj .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
 .cid-rNQx4aVxIf {
   padding-top: 30px;
   padding-bottom: 30px;
